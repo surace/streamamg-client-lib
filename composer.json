@@ -1,0 +1,21 @@
+{
+    "name": "stream-amg-mp/api-client-library",
+    "description": "An auto generated Composer package for the Kaltura API client library",
+    "keywords": ["StreamAMG","Media Platform", "client library", "video", "open source video", "video platform", "api"],
+    "minimum-stability": "stable",
+    "license": "AGPL-3.0",
+    "authors": [
+        {
+            "name": "StreamAMG",
+            "homepage": "http://www.streamamg.com/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "Kaltura": "library"
+        }
+    }
+}
